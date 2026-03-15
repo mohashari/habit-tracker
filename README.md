@@ -42,6 +42,12 @@ Run `supabase/schema.sql` in your Supabase SQL editor to create the tables and R
 | `NEXT_PUBLIC_SUPABASE_URL` | Your Supabase project URL |
 | `NEXT_PUBLIC_SUPABASE_ANON_KEY` | Your Supabase anon/public key |
 
+## Screenshots
+
+| Login | Sign Up |
+|---|---|
+| ![Login](public/screenshots/screenshot-login.png) | ![Sign Up](public/screenshots/screenshot-signup.png) |
+
 ## Live Demo
 
 _Coming soon_
